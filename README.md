@@ -1,0 +1,7 @@
+- O README.md do repositório deve conter:
+    - Seu nome completo
+    - Regras do Jogo - Destaque a variação da sua versão.
+    - Como jogar
+    - Como executar
+    - Créditos - Fontes de referência utilizadas
+    - Licença do projeto
