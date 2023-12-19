@@ -82,9 +82,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function endGame() {
-        const playerName = prompt('Game over! Enter your name:');
+        const playerName = prompt('Game over! Digite seu nome:');
         alert(`Player: ${playerName}\nScore: ${score}`);
-        const playAgain = confirm('Do you want to play again?');
+        const playAgain = confirm('Voçê deseja jogar novamente?');
         if (playAgain) {
             resetGame();
         }
