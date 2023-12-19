@@ -1,7 +1,11 @@
-- O README.md do repositório deve conter:
-    - Seu nome completo
-    - Regras do Jogo - Destaque a variação da sua versão.
+- O README.md:
+    - Gabriel Alves Mendes
+    - Regras do Jogo
+      - não pode colidir com a si mesmo (corpo da cobra) e nem com a borda do mapa 
     - Como jogar
+      - a movimentação é com as setas do teclado.
+      - ao perder o jogo ira pedir o nome do jogador para mostrar a pontuação e logo apos perguntará se quer reiniciar o jogo.
     - Como executar
-    - Créditos - Fontes de referência utilizadas
-    - Licença do projeto
+      -o jogo já inicia automaticamente ao acessar a página.
+    - Créditos - Fontes de referência utilizadas:
+      -w3school
